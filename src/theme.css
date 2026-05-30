@@ -1,0 +1,9 @@
+/* Ionic のプライマリ色を浮遊ボタンと同じ赤に統一 */
+:root {
+  --ion-color-primary: #e53935;
+  --ion-color-primary-rgb: 229,57,53;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255,255,255;
+  --ion-color-primary-shade: #ca3230;
+  --ion-color-primary-tint: #e84d4a;
+}
